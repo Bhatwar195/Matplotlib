@@ -20,7 +20,7 @@ This repository contains a complete collection of Matplotlib practice files focu
  ---
 
 ## Visualization
-![Matplotlib Visualization](sub_plot.png)
+<img width="2400" height="3200" alt="sub_plot" src="https://github.com/user-attachments/assets/36817051-1dca-4577-99ad-def115d37e84" />
 
 
 ## Tech Stack
