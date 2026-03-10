@@ -28,5 +28,3 @@ This repository contains a complete collection of Matplotlib practice files focu
 - Matplotlib
 - Python
 - NumPy
-
----
